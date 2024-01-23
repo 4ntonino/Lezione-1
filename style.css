@@ -1,0 +1,16 @@
+body{
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+    color: red;
+}
+div {
+    border: 2px solid black;
+    margin: 2px 0px;
+    padding: 8px 18px;
+}
+.firstdiv {
+    background-color: blue;
+    color: white;
+}
